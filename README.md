@@ -10,7 +10,7 @@
 <br />
 <br />
 
-[website]: https://google.com
+[website]: http://discord.verify.gay
 [course]: https://google.com
 [twitter]: https://google.com
 [youtube]: https://google.com
