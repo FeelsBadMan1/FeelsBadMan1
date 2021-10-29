@@ -20,3 +20,6 @@
 [jsplaylist]: https://google.com
 [cssplaylist]: https://google.com
 [reactplaylist]: https://google.com
+
+[![FeelsBadMan1's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsBadMan1&show_icons=true&theme=dark&title_color=9f00d9&border_color=d900ad)](https://discord.com)\
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeelsBadMan1&show_icons=true&theme=dark&title_color=fcba03&border_color=fcba03&card_width=496)](https://discord.com)
